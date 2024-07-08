@@ -1,6 +1,6 @@
 {
   "name": "@cathecat/watermark-dom",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "由于 watermark-dom 作者不维护 issue 和 pr 只好自行维护。",
   "keywords": [
     "watermark", "watermark-dom"
