@@ -283,7 +283,6 @@
       }
     }
   };
-  const MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
   var watermarkDom = new MutationObserver(callback);
   var option = {
     'childList': true,
