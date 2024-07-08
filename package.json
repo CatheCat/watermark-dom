@@ -1,6 +1,6 @@
 {
-  "name": "watermark-dom",
-  "version": "2.3.0",
+  "name": "@cathecat/watermark-dom",
+  "version": "2.3.3",
   "description": "watermark for DOM",
   "keywords": [
     "watermark", "watermark-dom"
@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "optionalDependencies": {},
-  "readme": "使用手册https://github.com/saucxs/watermark-dom/blob/master/README.md",
+  "readme": "使用手册 https://github.com/CatheCat/watermark-dom/blob/master/README.md",
   "readmeFilename": "README.md",
-  "author": "https://github.com/saucxs",
+  "author": "https://github.com/CatheCat",
   "license": "ISC",
   "dependencies": {
 
